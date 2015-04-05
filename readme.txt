@@ -1,0 +1,42 @@
+=== Wocommerce Product Samples ===
+Contributors: Mladjo
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QXZZJ83F6PBDQ&lc=SE&item_name=WP%20Social%20Networks%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+Tags: woocommerce
+Requires at least: 3.8
+Tested up to: 4.2.0
+Stable tag: 0.2.0
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Sell or Send free Samples of WooCommerce Products.
+
+== Description ==
+
+Giving away stuff for free or selling them cheap might seem counterintuitive – but it’s actually a practical business strategy that carries big payoffs in the long run.
+
+This plugin enables your to promote your products by offering samples of woocommerce products.
+
+== Installation ==
+
+Standard WordPress installation; either:
+
+- Go to the Plugins -> Add New screen in your dashboard and search for this plugin; then install and activate it.
+
+Or
+
+- Upload this plugin's zip file into Plugins -> Add New -> Upload in your dashboard; then activate it.
+
+After installation, you will have to add sample product and category for it.
+
+To configure this plugin:
+
+- Go to WooCommerce -> Settings -> Product Samples
+
+All other products can be configured to have or not sample product.
+
+== Screenshots ==
+
+== Changelog ==
+
+= 0.2.0 =
+* Initial release
