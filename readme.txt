@@ -16,6 +16,8 @@ This plugin enables your to promote your products by offering samples of woocomm
 
 Giving away stuff for free or selling them cheap might seem counterintuitive – but it’s actually a practical business strategy that carries big payoffs in the long run.
 
+Please feel free to contribute on github https://github.com/mladjom/woocommerce-product-samples
+
 == Installation ==
 
 Standard WordPress installation; either:

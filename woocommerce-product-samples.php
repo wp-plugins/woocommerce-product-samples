@@ -1,9 +1,9 @@
 <?php
 /*
   Plugin Name: WooCommerce Product Samples
-  Plugin URI: http://milentijevic.com/wordpress/plugins/
+  Plugin URI: http://milentijevic.com/wordpress-plugins/wocommerce-product-samples/
   Version: 0.2.1
-  Description: Sell or Send free Samples of WooCommerce Products
+  Description: Sell or Give Samples of WooCommerce Products.
   Author: Mladjo
   Author URI: http://milentijevic.com
   Text Domain: wcs
