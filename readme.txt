@@ -1,7 +1,7 @@
 === Wocommerce Product Samples ===
 Contributors: Mladjo
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QXZZJ83F6PBDQ&lc=SE&item_name=WP%20Social%20Networks%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
-Tags: woocommerce, e-commerce, ecommerce, free sample, sample, plugin, cart, checkout, commerce
+Tags: woocommerce, e-commerce, ecommerce, free sample, sample, plugin, wordpress,  cart, checkout, commerce, woothemes, wordpress ecommerce
 Requires at least: 3.8
 Tested up to: 4.2.0
 Stable tag: 0.2.1
