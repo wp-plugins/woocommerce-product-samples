@@ -2,7 +2,7 @@
 /*
   Plugin Name: WooCommerce Product Samples
   Plugin URI: http://milentijevic.com/wordpress/plugins/
-  Version: 0.2.0
+  Version: 0.2.1
   Description: Sell or Send free Samples of WooCommerce Products
   Author: Mladjo
   Author URI: http://milentijevic.com
@@ -152,7 +152,7 @@ if (in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_
                         'title' => __('Custom CSS', 'wcs'),
                         'type' => 'textarea',
                         'id' => 'wcs_custom_css',
-                        'css' => 'width:100%; height: 75px;',
+                        'css' => 'width:50%; height: 75px;',
                         'desc' => __('Apply your own custom CSS. CSS is automatically wrapped with <style></style> tags', 'wcs'),
                         'default' => __('.sample-products {margin-top: 20px;}', 'wcs'),
                         'desc_tip' => true,
